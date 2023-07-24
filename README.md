@@ -1,5 +1,5 @@
 # WebApi_dotNet
-Creating Web Api project in .net  
+Web Api project in .net  
   
 2 modela:  
   &nbsp;&nbsp; Locations  (id, name, latitude, longitude, category)  
