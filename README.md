@@ -2,8 +2,8 @@
 Creating Web Api project in .net  
   
 2 modela:  
-  Locations  (id, name, latitude, longitude, category)  
-  Records    (id, RequestTime, RequestUrl, RequestBody, ResponseBody)  
+  &nbsp;Locations  (id, name, latitude, longitude, category)  
+  &nbsp;Records    (id, RequestTime, RequestUrl, RequestBody, ResponseBody)  
   
 Stranica prikazuje 4 endpointa:  
   searchLocationsInRaidus  
